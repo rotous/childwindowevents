@@ -1,2 +1,2 @@
 # popupevents
-Adds the 'childrefreshed' and 'childclosed' for child windows to the window object.
+Adds the 'childrefreshed' and 'childclosed' events for child windows to the window object.
